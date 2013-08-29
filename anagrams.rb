@@ -1,3 +1,4 @@
+# Great working with you Ting.
 input = %w(stars mary rats tars army banana)
 
 def anagrams?(word1, word2)
